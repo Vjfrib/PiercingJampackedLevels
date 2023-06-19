@@ -1,2 +1,1 @@
 SELECT "Hello world!";
-.table
